@@ -167,9 +167,8 @@ button:hover{
 @media(max-width:1320px) {
     .container{
         background-color: rgb(6,40,99);
-        height: auto;
+        height: 1100px;
         display: block;
-        width: 100%;
     }
     .input_fields{
     width: 450px;
